@@ -1,0 +1,3 @@
+comman percy: 
+$env:PERCY_TOKEN = "7d3ce0918d2812a91240793b386bbd3a5dbf8392d4480f4c010a0b43fe258081"
+
